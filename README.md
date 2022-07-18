@@ -1,19 +1,9 @@
-<p align="center">
-    <img src="icons/icon-500.png" height="300"><br />
-    <a href="https://addons.mozilla.org/en-US/firefox/addon/bangs-for-google/">
-        <img src="icons/firefox.png" alt="Availible on Firefox Add-Ons" width="150">
-    </a>
-    <a href="https://chrome.google.com/webstore/detail/bangs-for-google/emidbfgmfdphfdldbmehojiocmljfonj">
-        <img src="icons/chrome.png" alt="Availible on chrome web store" width="150">
-    </a>
-</p>
-
 # Bangs for Google
 
 Automatically use DuckDuckGo for [Bangs](https://duckduckgo.com/bang), keeping Google for all other searches.
 
 ## Installation
-"Quick Copy URL" is availible through the [Firefox Add-On Platform](https://addons.mozilla.org/en-US/firefox/addon/bangs-for-google/) and [chrome web store](https://chrome.google.com/webstore/detail/bangs-for-google/emidbfgmfdphfdldbmehojiocmljfonj).
+TODO: Upload to Firefox/Chrome Web store
 
 ## How does it work? How is the performance?
 
