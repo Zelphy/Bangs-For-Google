@@ -4,6 +4,7 @@ Automatically use DuckDuckGo for [Bangs](https://duckduckgo.com/bang), keeping G
 
 ## Installation
 Firefox: https://addons.mozilla.org/en-GB/firefox/addon/googlebangs/
+
 Chrome: TODO
 
 ## How does it work? How is the performance?
