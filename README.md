@@ -3,7 +3,8 @@
 Automatically use DuckDuckGo for [Bangs](https://duckduckgo.com/bang), keeping Google for all other searches.
 
 ## Installation
-TODO: Upload to Firefox/Chrome Web store
+Firefox: https://addons.mozilla.org/en-GB/firefox/addon/googlebangs/
+Chrome: TODO
 
 ## How does it work? How is the performance?
 
